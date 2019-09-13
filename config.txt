@@ -1,0 +1,6 @@
+﻿token= NjIyMTE5NzkyMzc5Mjk3ODAy.XXvQQA.naherTCnDwKKY16kwAtDDEqvTXE
+owner= 600369127907131412
+prefix=1
+game= بطيخ 
+stayinchannel=true
+songinstatus=false 
