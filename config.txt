@@ -3,4 +3,4 @@ owner= 600369127907131412
 prefix=1
 game= بطيخ 
 stayinchannel=true
-songinstatus=false 
+songinstatus=true
