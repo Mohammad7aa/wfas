@@ -1,4 +1,4 @@
-﻿token= NjIyMTE5NzkyMzc5Mjk3ODAy.XXvQQA.naherTCnDwKKY16kwAtDDEqvTXE
+token= NjIyMTI3Nzg5MjM5MTczMTI0.XXvXsw.cuZp2y1zbtdYf9yttzV30iNEgTA
 owner= 600369127907131412
 prefix=1
 game= بطيخ 
